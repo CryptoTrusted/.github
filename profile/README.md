@@ -23,10 +23,10 @@
 
 ### Основні проєкти
 
-- **[chat](https://github.com/chat-x509/chat)** — Безпечний месенджер на базі ISO 20922, X.509, CMS, PKCS та ASN.1.
-- **[ca](https://github.com/chat-x509/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
-- **[ldap](https://github.com/chat-x509/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
-- **[ns](https://github.com/chat-x509/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
+- **[chat](https://github.com/zencrypted/chat)** — Безпечний месенджер на базі ISO 20922, X.509, CMS, PKCS та ASN.1.
+- **[ca](https://github.com/zencrypted/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
+- **[ldap](https://github.com/zencrypted/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
+- **[ns](https://github.com/zencrypted/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
 
 ### Інші проєкти
 
