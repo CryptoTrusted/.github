@@ -4,8 +4,8 @@
 
 ## Основні продукти
 
-* **[message](https://github.com/zencrypted/message)** — Легкий захищений месенжер без залежностей на SwiftUI для macOS і iOS.
-* **[chat](https://github.com/zencrypted/chat)** — Безпечний релей на Elixir для захищених месенджерів на X.509, CMS, PKCS та ASN.1.
+* **[message](https://github.com/zencrypted/message)** — Легкий Захищений Чат Месенжер Сохацького v3 без залежностей на SwiftUI для macOS і iOS.
+* **[chat](https://github.com/zencrypted/chat)** — Безпечний сервер Чат Месанжера Сохацького v2 на Elixir для захищених месенджерів на X.509, CMS, PKCS та ASN.1.
 
 ### Місія
 
