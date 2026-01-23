@@ -52,4 +52,4 @@ Publications:
 </picture>
 </p>
 
-<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2023—2026 Максим Сохацький</a></p>
+<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2023—2026 Zen Crypted</a></p>
