@@ -13,7 +13,7 @@
   
 ## Основні продукти
 
-* **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний Чат Месенжер Сохацького v2 на TCP з ASN.1 протоколами (демо).
+* **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького згідно Інструкції №370.
 * **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
 * **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
 * **[chat](https://github.com/zencrypted/chat)** — TLS/QUIC Сервер Чат Месенжера Сохацького v2 на Elixir з ASN.1 протоколом і PKI сервісами (розробка).
