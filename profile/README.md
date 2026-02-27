@@ -11,7 +11,7 @@
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
   
-## Основні продукти
+## Основні продукти ERP/1 для macOS
 
 * **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького згідно Інструкції №370.
 * **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
