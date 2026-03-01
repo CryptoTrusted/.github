@@ -13,7 +13,7 @@
   
 ## Основні продукти ERP/1 для macOS
 
-* **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького згідно Інструкції №370.
+* **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького згідно Наказу №40 МО.
 * **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
 * **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
 * **[mqtt](https://github.com/erpuno/mqtt)** — Глобальний Чат Месенжер Сохацького v3 на MQTT з ASN.1/BERT протоколами (продакшин).
